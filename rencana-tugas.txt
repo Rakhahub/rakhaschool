@@ -3,4 +3,4 @@ pembagian tugas:
 
 1. Rizky,Dafiq= membuat tools makanan
 2.Yasmin,Wildan= membuat tools coffe
-3. Rakha= membuat tools dessert
+3. Rakha= membuat tools dessert,memperindah view kantin
